@@ -1,5 +1,6 @@
 mineSweeper
-a simple minesweeper
+
+to run the game extarct all the files and run main.c
 
 Minesweeper is a classic puzzle game that involves finding and marking all of the mines hidden on a grid of squares. The rules of the game are as follows:
 
