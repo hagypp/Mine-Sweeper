@@ -1,4 +1,4 @@
-#Mine-Sweeper
+Mine-Sweeper
 
 to run the game extarct all the files and run main.c
 
